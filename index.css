@@ -1,0 +1,15 @@
+.container{
+    border: 3px solid black; 
+    height: auto; 
+    display: flex; 
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-flow: row; 
+    justify-content: center;
+}
+
+img{ 
+    border: 3px solid black;
+    margin-right: 10px;
+    order: 2;
+}
